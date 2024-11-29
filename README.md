@@ -1,2 +1,2 @@
 # FakeNewsGen_Hackathon
-Because why not!!
+Because why not!
